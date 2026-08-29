@@ -67,24 +67,6 @@ Research:        Active Directory Attacks, BYOVD, Malware Development, LLM-Drive
 
 <br>
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=r3vpwnx&theme=catppuccin-mocha&hide_border=true&bg_color=1E1E2E&color=CBA6F7&line=CBA6F7&point=F38BA8"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r3vpwnx&theme=catppuccin-mocha" alt="Contribution Graph" width="100%" />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <sub>All content is for educational and authorized testing purposes only.</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=r3vpwnx&color=CBA6F7&style=flat-square&label=Profile+Views)

@@ -1,74 +1,71 @@
 <div align="center">
 
-# 💀 Dilanka Kaushal Hewage (r3vpwnx)
+# Dilanka Kaushal Hewage 
+### r3vpwnx
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Red+Team+Operator;Security+Researcher;Exploit+Developer;Malware+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=CBA6F7&center=true&vCenter=true&width=550&lines=Red+Team+Operator;Adversary+Emulation+%26+Exploit+Dev;Windows+Internals+%26+Kernel+Exploitation;BYOVD+%26+Malware+Development;Active+Directory+Attack+%26+Defense" alt="Typing SVG" />
 
-**Red Team Operator** | **Phd Student**
+<br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-89DCEB?style=for-the-badge&logo=twitter&logoColor=1E1E2E)](https://twitter.com/r3vpwnx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E)](https://linkedin.com/in/r3vpwnx)
-[![Email](https://img.shields.io/badge/Email-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E)](mailto:r3vpwnx@gmail.com)
-[![Website](https://img.shields.io/badge/Website-CBA6F7?style=for-the-badge&logo=google-chrome&logoColor=1E1E2E)](https://r3vpwnx.space)
+[![Twitter](https://img.shields.io/badge/-@r3vpwnx-1E1E2E?style=for-the-badge&logo=x&logoColor=CBA6F7)](https://twitter.com/r3vpwnx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=89B4FA)](https://linkedin.com/in/r3vpwnx)
+[![Website](https://img.shields.io/badge/-r3vpwnx.space-1E1E2E?style=for-the-badge&logo=googlechrome&logoColor=94E2D5)](https://r3vpwnx.space)
+[![Email](https://img.shields.io/badge/-Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8)](mailto:r3vpwnx@gmail.com)
+
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## About
 
-Red Team Operator specializing in adversary emulation, exploit development, and offensive security research. I focus on simulating real-world attacks to strengthen organizational defenses while conducting research at the intersection of AI and cybersecurity.
+Red Team Operator specializing in adversary emulation, exploit development, and offensive security research. Focused on simulating real-world attacks to strengthen organizational defenses.
 
-**Currently researching:** LLM reasoning frameworks for automated vulnerability detection and zero-day discovery using deep learning techniques.
+**Currently researching:** Windows internals & kernel exploitation, BYOVD (Bring Your Own Vulnerable Driver) techniques, LLM-driven vulnerability discovery, and malware development.
 
 ```yaml
-Certifications: OSEE | OSED | CRTL | CRTO | OSEP | OSCE | OSCP | CRTE | CRTP | CPTS | CAPE
-Focus Areas:    Red Team Operations | Binary Exploitation | Reverse Engineering | Malware Development
-Research:       AI Security | Adversarial ML | Automated Vuln Discovery | LLM Reasoning for Security
+Role:            Red Team Operator | Adversary Emulation & Exploit Dev
+Certifications:  CRTL, CRTO, CRTP, CRTE, OSCP+, CPTS, CAPE, CRTA
+Focus Areas:     Red Team Operations, Windows Internals, Kernel Exploitation
+Research:        Active Directory Attacks, BYOVD, Malware Development, LLM-Driven Vulnerability Discovery
 ```
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-CBA6F7?style=for-the-badge&logo=python&logoColor=1E1E2E)
-![C](https://img.shields.io/badge/C-94E2D5?style=for-the-badge&logo=c&logoColor=1E1E2E)
-![C++](https://img.shields.io/badge/C++-89B4FA?style=for-the-badge&logo=cplusplus&logoColor=1E1E2E)
-![Go](https://img.shields.io/badge/Go-94E2D5?style=for-the-badge&logo=go&logoColor=1E1E2E)
-![Rust](https://img.shields.io/badge/Rust-F38BA8?style=for-the-badge&logo=rust&logoColor=1E1E2E)
-![Assembly](https://img.shields.io/badge/Assembly-F38BA8?style=for-the-badge&logo=assemblyscript&logoColor=1E1E2E)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=CBA6F7)
+![C](https://img.shields.io/badge/C-1E1E2E?style=for-the-badge&logo=c&logoColor=94E2D5)
+![C++](https://img.shields.io/badge/C++-1E1E2E?style=for-the-badge&logo=cplusplus&logoColor=89B4FA)
+![Assembly](https://img.shields.io/badge/Assembly-1E1E2E?style=for-the-badge&logo=assemblyscript&logoColor=F38BA8)
 
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-F38BA8?style=for-the-badge&logo=hack-the-box&logoColor=1E1E2E)
-![Ghidra](https://img.shields.io/badge/Ghidra-CBA6F7?style=for-the-badge&logo=security&logoColor=1E1E2E)
-![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-89B4FA?style=for-the-badge&logo=nintendo-switch&logoColor=1E1E2E)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FAB387?style=for-the-badge&logo=target&logoColor=1E1E2E)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-1E1E2E?style=for-the-badge&logo=hackthebox&logoColor=F38BA8)
+![Ghidra](https://img.shields.io/badge/Ghidra-1E1E2E?style=for-the-badge&logo=nsa&logoColor=CBA6F7)
+![pwndbg](https://img.shields.io/badge/pwndbg-1E1E2E?style=for-the-badge&logo=gnu-bash&logoColor=94E2D5)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-1E1E2E?style=for-the-badge&logo=target&logoColor=FAB387)
+![WinDbg](https://img.shields.io/badge/WinDbg-1E1E2E?style=for-the-badge&logo=windows&logoColor=89B4FA)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-F38BA8?style=for-the-badge&logo=kalilinux&logoColor=1E1E2E)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-89DCEB?style=for-the-badge&logo=archlinux&logoColor=1E1E2E)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1E1E2E?style=for-the-badge&logo=kalilinux&logoColor=F38BA8)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1E1E2E?style=for-the-badge&logo=archlinux&logoColor=89DCEB)
+![Windows](https://img.shields.io/badge/Windows-1E1E2E?style=for-the-badge&logo=windows&logoColor=CBA6F7)
 
 
 </div>
 
----
+<br>
 
-## 🔬 Featured Research
+## Repository Highlights
 
-**LLM Reasoning Framework** - Novel architecture integrating deep-think stages with self-reflection mechanisms directly into LLM hidden states without fine-tuning. Developed during MSc research at IU International University for AI-powered vulnerability detection and code analysis.
+- Exploit development tools and custom offensive frameworks
+- BYOVD research and kernel-level evasion tooling
+- Red team automation and adversary emulation tooling
+- Custom malware loaders and injection techniques
+- CTF writeups (pwn, reverse engineering)
+- CVE research and public disclosures
 
----
-
-## 📚 Repository Highlights
-
-Here you'll find:
-- 🔥 Exploit development tools and custom frameworks
-- ⚔️ Red team automation and adversary emulation tooling  
-- 🧪 Malware analysis and reverse engineering utilities
-- 🎯 CTF writeups (pwn, RE, crypto challenges)
-- 🤖 AI security research and proof-of-concepts
-
----
+<br>
 
 ## 📈 GitHub Activity
 
@@ -84,18 +81,13 @@ Here you'll find:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
+<sub>All content is for educational and authorized testing purposes only.</sub>
 
----
-
-⚠️ **Disclaimer**: All content is for educational and authorized testing purposes only.
-
-![Profile Views](https://komarev.com/ghpvc/?username=r3vpwnx&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=r3vpwnx&color=CBA6F7&style=flat-square&label=Profile+Views)
 
 <sub>🔥 Hack the Planet 🔥</sub>
 

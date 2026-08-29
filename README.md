@@ -67,6 +67,8 @@ Research:        Active Directory Attacks, BYOVD, Malware Development, LLM-Drive
 
 <br>
 
+<div align="center">
+  
 <sub>All content is for educational and authorized testing purposes only.</sub>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=r3vpwnx&color=CBA6F7&style=flat-square&label=Profile+Views)

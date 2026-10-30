@@ -46,7 +46,7 @@ windows close; see https://r3vpwnx.space for write-ups.
 
 ## Certifications
 
-CRTL, CRTO, CRTP, CRTE, OSCP+, CPTS, CAPE, CRTA
+CRTL, CRTE, CRTP, OSCP+, eCPTXv2, eCPPT, eWPT, eCRE, eJPT, CRTA
 
 ---
 

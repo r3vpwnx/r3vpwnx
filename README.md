@@ -1,17 +1,17 @@
 # Dilanka Kaushal Hewage (`r3vpwnx`)
 
-Independent security researcher. I work on vulnerability research, exploit
-development, and coordinated disclosure - auditing real, maintained software,
-building working proofs of concept, and reporting what I find to vendors and CVE
-authorities.
+Senior Red Team Operator and security researcher. I work on vulnerability
+research, exploit development, and coordinated disclosure - auditing real,
+maintained software, building working proofs of concept, and reporting what I
+find to vendors and CVE authorities.
 
 - Website: https://r3vpwnx.space
 - Contact: dilankakaushalhewage@gmail.com
 
 ## Research
 
-Independent vulnerability research across open-source and commercial software:
-author of 32 published CVEs, spanning OS command injection and memory-safety
+Vulnerability research across open-source and commercial software: author of 32
+published CVEs, spanning OS command injection and memory-safety
 bugs in desktop applications and native libraries. I work the full cycle from
 source audit to a working proof of concept to coordinated disclosure.
 

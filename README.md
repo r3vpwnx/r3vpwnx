@@ -1,18 +1,24 @@
 # Dilanka Kaushal Hewage (`r3vpwnx`)
 
-Red team operator working on adversary emulation, exploit development, and
-offensive security research. I build and prove end-to-end exploits against real,
-maintained software, then report what I find under coordinated disclosure.
+Independent security researcher. I work on vulnerability research, exploit
+development, and coordinated disclosure - auditing real, maintained software,
+building working proofs of concept, and reporting what I find to vendors and CVE
+authorities.
 
 - Website: https://r3vpwnx.space
 - Contact: dilankakaushalhewage@gmail.com
 
-## Focus
+## Research
 
-- Red team operations and adversary emulation
-- Vulnerability research and exploit development (web applications, services, and native code)
-- Windows internals, kernel exploitation, and driver security (BYOVD)
-- Active Directory attack and defense
+Independent vulnerability research across open-source and commercial software:
+author of 32 published CVEs, spanning OS command injection and memory-safety
+bugs in desktop applications and native libraries. I work the full cycle from
+source audit to a working proof of concept to coordinated disclosure.
+
+Areas of interest: web applications and services, native code and desktop
+applications, Active Directory, and AI/LLM security (autonomous agents, MCP tool
+integrations, and RAG pipelines). Advisories are published at https://r3vpwnx.space
+as disclosure windows close.
 
 ## Exploit development
 
@@ -29,12 +35,6 @@ known vulnerabilities, not original discoveries.
 | CVE-2025-24367 | Cacti | Authenticated graph-template RCE |
 | CVE-2025-8110 | Gogs | Symlink path-traversal arbitrary file write |
 | CVE-2007-2447 | Samba | "username map script" command injection |
-
-## Research
-
-Ongoing coordinated-disclosure vulnerability research against maintained
-open-source and vendor software. Advisories are published here as disclosure
-windows close; see https://r3vpwnx.space for write-ups.
 
 ## Tooling
 

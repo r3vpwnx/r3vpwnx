@@ -10,15 +10,29 @@ find to vendors and CVE authorities.
 
 ## Research
 
-Vulnerability research across open-source and commercial software: author of 32
-published CVEs, spanning OS command injection and memory-safety
-bugs in desktop applications and native libraries. I work the full cycle from
-source audit to a working proof of concept to coordinated disclosure.
+Independent vulnerability research across open-source and commercial software:
+author of 32 published CVEs, spanning unsafe deserialization, code and
+expression-language injection, OS command injection, path traversal, and
+memory-safety bugs in scientific libraries, desktop applications, and native
+code. I work the full cycle from source audit to a working proof of concept to
+coordinated disclosure.
 
 Areas of interest: web applications and services, native code and desktop
 applications, Active Directory, and AI/LLM security (autonomous agents, MCP tool
 integrations, and RAG pipelines). Advisories are published at https://r3vpwnx.space
 as disclosure windows close.
+
+### Selected recent advisories
+
+| ID | Target | Class |
+|-----|--------|---------------------|
+| CVE-2026-120859 | PyMoDAQ | Deserialization of untrusted data and eval injection to RCE (CWE-502 / CWE-94) |
+| CVE-2026-120833 | labbench | Pickle deserialization to RCE on a read (CWE-502) |
+| CVE-2026-120499 | h5io (and MNE-Python) | Code injection via a crafted HDF5 file (CWE-94) |
+| CVE-2026-123095 | mpv | ytdl_hook playlist injection via crafted URLs (CWE-94) |
+| CVE-2026-120252 | imagecodecs | Lossless-JPEG (jpegsof3) stack buffer overflow (CWE-121 / CWE-190) |
+| CVE-2026-120251 | imagecodecs | CCITT Group-4 (ccittfax4) infinite-loop denial of service (CWE-835) |
+| GHSA-ppf5-4gw2-37j9 | GSAS-II | Pickle deserialization to RCE on opening a project file (CWE-502) |
 
 ## Exploit development
 

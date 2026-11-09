@@ -22,7 +22,7 @@ applications, Active Directory, and AI/LLM security (autonomous agents, MCP tool
 integrations, and RAG pipelines). Advisories are published at https://r3vpwnx.space
 as disclosure windows close.
 
-### Selected recent advisories
+### Recent CVEs and advisories
 
 | ID | Target | Class |
 |-----|--------|---------------------|

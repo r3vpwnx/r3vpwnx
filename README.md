@@ -2,7 +2,7 @@
 
 Senior Red Team Operator and security researcher focused on vulnerability research, exploit development and coordinated disclosure. I audit real, maintained software, build working proofs of concept, and report findings to maintainers and CVE Numbering Authorities.
 
-[r3vpwnx.space](https://r3vpwnx.space) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/r3vpwnx) &nbsp;|&nbsp; [ORCID](https://orcid.org/0009-0009-7191-468X) &nbsp;|&nbsp; security@r3vpwnx.space
+[r3vpwnx.space](https://r3vpwnx.space) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/r3vpwnx) &nbsp;|&nbsp; [ORCID](https://orcid.org/0009-0009-7191-468X) &nbsp;|&nbsp; dilankakaushalhewage@gmail.com
 
 ### Research
 

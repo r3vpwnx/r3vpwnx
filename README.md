@@ -15,15 +15,15 @@ Current interests: native and desktop application security, web applications, Ac
 | ID | Project | Vulnerability |
 | --- | --- | --- |
 | [CVE-2026-120859](https://www.cve.org/CVERecord?id=CVE-2026-120859) | PyMoDAQ | Unsafe deserialization and eval injection leading to RCE |
-| [CVE-2026-120499](https://www.cve.org/CVERecord?id=CVE-2026-120499) | h5io / MNE-Python | Code injection via crafted HDF5 file (eval, import, unpickle) |
-| [CVE-2026-120833](https://www.cve.org/CVERecord?id=CVE-2026-120833) | labbench (NIST) | Pickle deserialization leading to RCE |
-| [GHSA-ppf5-4gw2-37j9](https://github.com/AdvancedPhotonSource/GSAS-II/security/advisories/GHSA-ppf5-4gw2-37j9) | GSAS-II (DOE / Argonne) | Pickle deserialization leading to RCE on project open |
+| [CVE-2026-120499](https://www.cve.org/CVERecord?id=CVE-2026-120499) | h5io&nbsp;/&nbsp;MNE-Python | Code injection via crafted HDF5 file (eval, import, unpickle) |
+| [CVE-2026-120833](https://www.cve.org/CVERecord?id=CVE-2026-120833) | labbench&nbsp;(NIST) | Pickle deserialization leading to RCE |
+| [GHSA-ppf5-4gw2-37j9](https://github.com/AdvancedPhotonSource/GSAS-II/security/advisories/GHSA-ppf5-4gw2-37j9) | GSAS-II&nbsp;(DOE&nbsp;/&nbsp;Argonne) | Pickle deserialization leading to RCE on project open |
 | [CVE-2026-126042](https://www.cve.org/CVERecord?id=CVE-2026-126042) | VNote | OS command injection via Tasks magic variables |
 | [CVE-2026-123095](https://www.cve.org/CVERecord?id=CVE-2026-123095) | mpv | Playlist injection in ytdl_hook (CRLF) |
 | [CVE-2026-120252](https://www.cve.org/CVERecord?id=CVE-2026-120252) | imagecodecs | Stack buffer overflow in lossless JPEG decoder |
 | [CVE-2026-120251](https://www.cve.org/CVERecord?id=CVE-2026-120251) | imagecodecs | Infinite loop in CCITT Group 4 decoder |
-| [GHSA-9r9x-g862-525c](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-9r9x-g862-525c) | Head Start TTADP (US HHS) | Cross-region write IDOR (broken access control) |
-| [GHSA-q859-79hf-rpr3](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-q859-79hf-rpr3) | Head Start TTADP (US HHS) | Cross-region read IDOR on the communication-log endpoint |
+| [GHSA-9r9x-g862-525c](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-9r9x-g862-525c) | Head&nbsp;Start&nbsp;TTADP&nbsp;(US&nbsp;HHS) | Cross-region write IDOR (broken access control) |
+| [GHSA-q859-79hf-rpr3](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-q859-79hf-rpr3) | Head&nbsp;Start&nbsp;TTADP&nbsp;(US&nbsp;HHS) | Cross-region read IDOR on the communication-log endpoint |
 | [GHSA-fmqx-8x8h-gf76](https://github.com/pbek/QOwnNotes/security/advisories/GHSA-fmqx-8x8h-gf76) | QOwnNotes | Path traversal in note media/attachment handling |
 | [GHSA-jp2h-69pm-p69c](https://github.com/pbek/QOwnNotes/security/advisories/GHSA-jp2h-69pm-p69c) | QOwnNotes | Command injection via note filenames in the external Git version viewer |
 
@@ -34,10 +34,10 @@ Proof-of-concept exploits with root-cause analysis for publicly disclosed vulner
 | CVE | Target | Vulnerability |
 | --- | --- | --- |
 | CVE-2026-120752 | PyMuPDF | Stack buffer overflow in callout annotation (credited analyst) |
-| CVE-2026-26119 | Windows Admin Center | Improper authentication to PowerShell execution |
+| CVE-2026-26119 | Windows&nbsp;Admin&nbsp;Center | Improper authentication to PowerShell execution |
 | CVE-2025-58434 | Flowise | Unauthenticated account takeover |
-| CVE-2025-57819 | FreePBX Endpoint Manager | Unauthenticated SQL injection to RCE |
-| CVE-2025-55182 | React / Next.js | RSC Flight deserialization RCE |
+| CVE-2025-57819 | FreePBX&nbsp;Endpoint&nbsp;Manager | Unauthenticated SQL injection to RCE |
+| CVE-2025-55182 | React&nbsp;/&nbsp;Next.js | RSC Flight deserialization RCE |
 | CVE-2025-24367 | Cacti | Authenticated graph-template RCE |
 | CVE-2025-8110 | Gogs | Symlink path traversal to arbitrary file write |
 | CVE-2007-2447 | Samba | username map script command injection |

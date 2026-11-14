@@ -10,7 +10,7 @@ Credited with 30+ published CVEs in open-source and commercial software, coverin
 
 Current interests: native and desktop application security, web applications, Active Directory, and AI/LLM security (agents, MCP tool integrations, RAG pipelines).
 
-**Selected CVEs and advisories**
+**Published CVEs and advisories**
 
 | ID | Project | Vulnerability |
 | --- | --- | --- |
@@ -23,7 +23,9 @@ Current interests: native and desktop application security, web applications, Ac
 | [CVE-2026-120252](https://www.cve.org/CVERecord?id=CVE-2026-120252) | imagecodecs | Stack buffer overflow in lossless JPEG decoder |
 | [CVE-2026-120251](https://www.cve.org/CVERecord?id=CVE-2026-120251) | imagecodecs | Infinite loop in CCITT Group 4 decoder |
 | [GHSA-9r9x-g862-525c](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-9r9x-g862-525c) | Head Start TTADP (US HHS) | Cross-region write IDOR (broken access control) |
+| [GHSA-q859-79hf-rpr3](https://github.com/HHS/Head-Start-TTADP/security/advisories/GHSA-q859-79hf-rpr3) | Head Start TTADP (US HHS) | Cross-region read IDOR on the communication-log endpoint |
 | [GHSA-fmqx-8x8h-gf76](https://github.com/pbek/QOwnNotes/security/advisories/GHSA-fmqx-8x8h-gf76) | QOwnNotes | Path traversal in note media/attachment handling |
+| [GHSA-jp2h-69pm-p69c](https://github.com/pbek/QOwnNotes/security/advisories/GHSA-jp2h-69pm-p69c) | QOwnNotes | Command injection via note filenames in the external Git version viewer |
 
 ### Exploit development
 

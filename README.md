@@ -14,6 +14,12 @@ Current interests: native and desktop application security, web applications, Ac
 
 | ID | Project | Vulnerability |
 | --- | --- | --- |
+| [CVE-2026-133708](https://www.cve.org/CVERecord?id=CVE-2026-133708) | diffpy.structure | Eval injection via CIF symmetry operations leading to RCE |
+| [CVE-2026-133707](https://www.cve.org/CVERecord?id=CVE-2026-133707) | targets&nbsp;(R) | Code injection via a shared pipeline store leading to RCE |
+| [CVE-2026-132751](https://www.cve.org/CVERecord?id=CVE-2026-132751) | yt | Eval injection via a ytdata HDF5 file (con_args) leading to RCE |
+| [CVE-2026-129855](https://www.cve.org/CVERecord?id=CVE-2026-129855) | RedAmon | Unauthenticated root shell over a WebSocket (port 8016) |
+| [CVE-2026-129854](https://www.cve.org/CVERecord?id=CVE-2026-129854) | RedAmon | Cross-tenant control of live post-exploitation sessions (BOLA) |
+| [CVE-2026-118692](https://www.cve.org/CVERecord?id=CVE-2026-118692) | CherryTree | OS command injection via the weblink action (independent co-discovery) |
 | [CVE-2026-120859](https://www.cve.org/CVERecord?id=CVE-2026-120859) | PyMoDAQ | Unsafe deserialization and eval injection leading to RCE |
 | [CVE-2026-120499](https://www.cve.org/CVERecord?id=CVE-2026-120499) | h5io&nbsp;/&nbsp;MNE-Python | Code injection via crafted HDF5 file (eval, import, unpickle) |
 | [CVE-2026-120833](https://www.cve.org/CVERecord?id=CVE-2026-120833) | labbench&nbsp;(NIST) | Pickle deserialization leading to RCE |

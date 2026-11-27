@@ -6,7 +6,7 @@ Senior Red Team Operator and security researcher focused on vulnerability resear
 
 ### Research
 
-Credited with 30+ published CVEs in open-source and commercial software, covering unsafe deserialization, code injection, OS command injection, path traversal and memory-safety bugs in scientific libraries, desktop applications and native code. Advisories are published on [r3vpwnx.space](https://r3vpwnx.space) once disclosure windows close.
+Credited with 29 published CVEs and 7 further GitHub security advisories in open-source and commercial software, covering unsafe deserialization, code injection, OS command injection, path traversal and memory-safety bugs in scientific libraries, desktop applications and native code. Advisories are published on [r3vpwnx.space](https://r3vpwnx.space) once disclosure windows close.
 
 Current interests: native and desktop application security, web applications, Active Directory, and AI/LLM security (agents, MCP tool integrations, RAG pipelines).
 
@@ -14,6 +14,24 @@ Current interests: native and desktop application security, web applications, Ac
 
 | ID | Project | Vulnerability |
 | --- | --- | --- |
+| [CVE-2026-137999](https://www.cve.org/CVERecord?id=CVE-2026-137999) | JSONSchema2PoPo2 | Code injection via unescaped schema defaults in generated classes |
+| [CVE-2026-137998](https://www.cve.org/CVERecord?id=CVE-2026-137998) | Detoxify | Unsafe checkpoint deserialization (torch.load) leading to RCE |
+| [CVE-2026-137997](https://www.cve.org/CVERecord?id=CVE-2026-137997) | HCIPy | Pickle deserialization when reading field, grid or mode-basis files |
+| [CVE-2026-137996](https://www.cve.org/CVERecord?id=CVE-2026-137996) | Zettlr | Unvalidated URI schemes opened from Markdown links |
+| [CVE-2026-137994](https://www.cve.org/CVERecord?id=CVE-2026-137994) | Leo&nbsp;Editor | Pickle deserialization when opening a .leo outline leading to RCE |
+| [CVE-2026-137539](https://www.cve.org/CVERecord?id=CVE-2026-137539) | lastversion | Arbitrary file write via tar symlink members on extract |
+| [CVE-2026-137529](https://www.cve.org/CVERecord?id=CVE-2026-137529) | JAL&nbsp;(Just&nbsp;Another&nbsp;Ledger) | Arbitrary file overwrite via a symlink in a backup archive |
+| [CVE-2026-137518](https://www.cve.org/CVERecord?id=CVE-2026-137518) | pyfda | Pickle deserialization when loading a filter file leading to RCE |
+| [CVE-2026-137506](https://www.cve.org/CVERecord?id=CVE-2026-137506) | ezdxf | Code injection in dxf2code via DXF table entry names |
+| [CVE-2026-136923](https://www.cve.org/CVERecord?id=CVE-2026-136923) | asar-py | Path traversal on archive extraction (arbitrary file write) |
+| [CVE-2026-136922](https://www.cve.org/CVERecord?id=CVE-2026-136922) | PyBioNetGen | Code execution via sympify of BNG-XML parameter expressions |
+| [CVE-2026-136168](https://www.cve.org/CVERecord?id=CVE-2026-136168) | RedVector | Command allow-list bypass and hard-coded API token leading to RCE |
+| [CVE-2026-136167](https://www.cve.org/CVERecord?id=CVE-2026-136167) | vedo | Pickle deserialization when opening .npy/.npz files leading to RCE |
+| [CVE-2026-134704](https://www.cve.org/CVERecord?id=CVE-2026-134704) | OpenShot | Pickle deserialization when opening a project file (.osp) leading to RCE |
+| [CVE-2026-134694](https://www.cve.org/CVERecord?id=CVE-2026-134694) | gammapy | Eval injection via the WCSSHAPE FITS header leading to RCE |
+| [CVE-2026-103926](https://www.cve.org/CVERecord?id=CVE-2026-103926) | hickle | safe=True load flag ignored, pickle deserialization leading to RCE |
+| [GHSA-632c-gw75-99r3](https://github.com/hyperspy/hyperspy/security/advisories/GHSA-632c-gw75-99r3) | HyperSpy | Code execution via file-derived SymPy expressions on load |
+| [GHSA-j975-x368-3hrr](https://github.com/hyperspy/hyperspy/security/advisories/GHSA-j975-x368-3hrr) | HyperSpy | cloudpickle deserialization when restoring a stored model |
 | [CVE-2026-133708](https://www.cve.org/CVERecord?id=CVE-2026-133708) | diffpy.structure | Eval injection via CIF symmetry operations leading to RCE |
 | [CVE-2026-133707](https://www.cve.org/CVERecord?id=CVE-2026-133707) | targets&nbsp;(R) | Code injection via a shared pipeline store leading to RCE |
 | [CVE-2026-132751](https://www.cve.org/CVERecord?id=CVE-2026-132751) | yt | Eval injection via a ytdata HDF5 file (con_args) leading to RCE |
